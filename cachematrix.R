@@ -1,6 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
-
+## Based on the example from Coursera
 makeCacheMatrix <- function(x = matrix()) {
   minv <- NULL
   set <- function(y) {
