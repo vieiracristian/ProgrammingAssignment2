@@ -1,4 +1,7 @@
-## Based on the example from Coursera
+
+
+##first one gets and set the inverse, based on the example of coursera
+
 makeCacheMatrix <- function(x = matrix()) {
   minv <- NULL
   set <- function(y) {
